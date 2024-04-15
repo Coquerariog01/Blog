@@ -1,0 +1,25 @@
+body {
+    font: Normal 18pt Arial;
+    color: #964B00;
+    background-color: #fffdd0;
+    
+  }
+
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-align: center;
+    
+  }
+  li{
+    font: normal 18pt Arial;
+    color: #964B00;
+  }
+  p{
+    font: normal 18pt Arial;
+    color: #964B00;
+  }
+  img{
+    color: #964B00;
+  }
+  
